@@ -4,12 +4,6 @@
 
 #include <iostream>
 
-#define HEXDATA 2
-#define BINDATA 8
-
-#define HEXADDRESS 4
-#define BINADDRESS 16
-
 #define NO_OF_REGISTERS 7
 #define NO_OF_FLAGS 5
 
